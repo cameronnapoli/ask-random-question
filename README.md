@@ -5,7 +5,7 @@ Opens google query with random question. Built with Golang.
 
 Query string is built with files in `resources/`
 
-To modify nouns and adjectives add entries to the following files:
+To modify nouns and adjectives in the query string, add entries to the following files:
 
 * ```resources/adjectives.txt```
 * ```resources/nouns_plural.txt```
