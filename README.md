@@ -11,7 +11,7 @@ To modify nouns and adjectives in the question, add entries to the following fil
 * ```resources/nouns_plural.txt```
 * ```resources/nouns_singular.txt```
 
-#### Usage
+### Usage
 
 Run with:
 
